@@ -27,5 +27,5 @@
 !["installation de Windows sur la première partition du disque](/img/windowsInstallationConfiguration.png)
 
 ## lancer le programme d'instalation de Linux Mint
-> Installer Mint sur la deuxiemme partition du disque cf image : mintInstallationConfiguration.jpg
+> Installer Mint sur la deuxiemme partition du disque
 !["installation de Mint sur la deuxiemme partition du disque](/img/mintInstallationConfiguration.jpg)
