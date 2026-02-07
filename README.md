@@ -1,7 +1,8 @@
 # Installer Linux sur un ordinateur
 
 ## Création d'une clé bootable 
-Multi OS USB
+* Multi OS USB
+* [rufus] (rufus.md)
 
 ## Téléchargements des Isos
 [Mint 22.2] : https://linuxmint.com/
