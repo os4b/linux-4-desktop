@@ -16,8 +16,11 @@ Multi OS USB
 !["copie des images](/img/dmesg.jpg)
 
 ## booter sur la clef
-## lancer le programme d'instalation de windows cf image : windowsInstallationConfiguration.png
-##  installation de Windows sur la première partition du disque
+
+## Installer Windows
+> lancer le programme d'instalation de windows cf image : windowsInstallationConfiguration.png
+> installation de Windows sur la première partition du disque
 > une fois terminé, rebooter sur la clef
+
 ## lancer le programme d'instalation de Linux Mint
 > Installer Mint sur la deuxiemme partition du disque cf image : mintInstallationConfiguration.jpg
