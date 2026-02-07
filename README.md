@@ -2,7 +2,7 @@
 
 ## Création d'une clé bootable 
 * Multi OS USB
-* [rufus] (rufus.md)
+* [rufus] (/rufus.md)
 
 ## Téléchargements des Isos
 [Mint 22.2] : https://linuxmint.com/
