@@ -23,9 +23,9 @@
 ## Installer Windows
 > lancer le programme d'instalation de windows cf image : windowsInstallationConfiguration.png
 > installation de Windows sur la première partition du disque
-!["installation de Windows sur la première partition du disque](/img/windowsInstallationConfiguration.png)
 > une fois terminé, rebooter sur la clef
+!["installation de Windows sur la première partition du disque](/img/windowsInstallationConfiguration.png)
 
 ## lancer le programme d'instalation de Linux Mint
 > Installer Mint sur la deuxiemme partition du disque cf image : mintInstallationConfiguration.jpg
-!["installation de Mint sur la deuxiemme partition du disque](/img/mintInstallationConfiguration.png)
+!["installation de Mint sur la deuxiemme partition du disque](/img/mintInstallationConfiguration.jpg)
