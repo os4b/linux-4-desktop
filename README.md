@@ -2,20 +2,26 @@
 
 ## Création d'une clé bootable 
 * Multi OS USB
+* Ventoy 
 * Rufus
 
 [rufus](/rufus.md)
 
 ## Téléchargements des Isos
+
 [Mint 22.2] : https://linuxmint.com/
 
 [Windows 10] : https://www.microsoft.com/fr-fr/software-download/
 
 [LinuxConsole 2024]  : https://ftp.cc.uoc.gr/mirrors/linux/linuxconsole/
 
-## Démarer sur Linux Console avec la clef USB
+## Test de la clé
+[test](/test-key.md)
+
+## Démarer sur LinuxConsole avec la clef USB
+
 > Création de deux partitions de la moitié du disque
-> Copie des images ave cdmesg
+> Copie des images ave dd
 !["copie des images](/img/dmesg.jpg)
 
 ## booter sur la clef
