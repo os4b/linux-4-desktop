@@ -4,7 +4,7 @@
 * Multi OS USB
 * Rufus
 
-[rufus] (/rufus.md)
+[rufus](/rufus.md)
 
 ## Téléchargements des Isos
 [Mint 22.2] : https://linuxmint.com/
